@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='tranhdachatlieu.blogspot.com' target='_blank'><img src='http://2.bp.blogspot.com/-zLE3z0uVzzg/Vvk2I-EXnUI/AAAAAAAABu4/hWQshFsIAfwo76A6cLYbuYSt7actC341w/s1600-r/IMG_378060174050028.jpeg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='tranhdachatlieu.blogspot.com' target='_blank'><img src='http://2.bp.blogspot.com/-zLE3z0uVzzg/Vvk2I-EXnUI/AAAAAAAABu4/hWQshFsIAfwo76A6cLYbuYSt7actC341w/s1600-r/IMG_378060174050028.jpeg' width='500px'/>tranhdachatlieu</a>. quận 7 tphcm. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
